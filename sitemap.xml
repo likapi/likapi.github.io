@@ -4,9 +4,12 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://likapi.github.io/</loc>
-  <lastmod>2021-03-29T14:03:53+00:00</lastmod>
+  <lastmod>2021-04-18T18:45:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
@@ -17,6 +20,11 @@
 <url>
   <loc>https://likapi.github.io/api/</loc>
   <lastmod>2021-03-29T13:35:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://likapi.github.io/culture/</loc>
+  <lastmod>2021-04-18T18:34:20+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -44,4 +52,6 @@
   <lastmod>2021-02-19T10:54:31+00:00</lastmod>
   <priority>0.64</priority>
 </url>
+
+
 </urlset>
